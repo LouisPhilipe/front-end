@@ -1,0 +1,37 @@
+faça um programa que mostre um parágrafo com a frase "hoje eu estou fazendo a prova de front-end" sendo que a palavra hoje deve estar em negrito, estou em itático, a palavra prova marcado com a cor verde e front-end como um texto inserido
+*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova</title>
+</head>
+<body>
+<p>
+    <strong>hoje</strong> eu <i>estou</i> fazendo a <font color="green">prova</font> <ins>front-end</ins>
+</p>
+</body>
+</html>
+até qual nível vai a hierarquia de títulos do html? demonstre em um código html um exemplo de cada um desses níveis
+*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova</title>
+</head>
+<body>
+    <h1>Nível 1 (h1)</h1>
+    <h2>Nível 2 (h2)</h2>
+    <h3>Nível 3 (h3)</h3>
+    <h4>Nível 4 (h4)</h4>
+    <h5>Nível 5 (h5)</h5>
+    <h6>Nível 6 (h6)</h6>
+</body>
+</html>
+faça a citação de uma frase de um livro a sua escolha e faça uma sigla que apareça o seu significado quando passar o cursor em cima da sigla.
+*
+faça uma lista ordenada de 5 itens  em números romanos que inicie a partir do número 4,  e uma lista não ordenada de 5 itens com atributo square.
+*
