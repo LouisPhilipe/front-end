@@ -1,0 +1,36 @@
+Qual é o seu nome?
+*
+Louis Philipe/Bruno Newton (02, 25)
+faça um código em html contendo um favicon de sua escolha
+*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuperação</title>
+</head>
+<body>
+ <h1>Favicons</h1>
+ <h1>&copy;</h1>
+</body>
+</html>
+faça um código em Html contendo 3 imagens colocadas no site de formas diferentes.
+*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuperação</title>
+</head>
+<body>
+ <h1>Imagens</h1>
+<img src="https://www.brasilparalelo.com.br/_next/image?url=https%3A%2F%2Fmkt.brasilparalelo.com.br%2F60ff690cd7b0537edb99a29a%2F6897d8e3e180441266cf5d03_quem%252520e%252520felca.jpg&w=828&q=75" alt="Felca" height="300" >
+<img src="Felca.jpeg" alt="Felca" height="500" >
+<img src="Felca_da79a6.webp" alt="Felca" height="200" >
+</body>
+</html>
+faça um código em HTML que apresente dois simbolos e 2 emojis de sua escolha 
+*
+faça um codigo em html que apareça a frase "prova de recuperação de back-end" aparecendo uma palavra em baixo da outra, mas a frase deve estar no mesmo parágrafo
